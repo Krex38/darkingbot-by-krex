@@ -1,0 +1,26 @@
+{
+  "name": "csyuptimer",
+  "version": "0.0.1",
+  "description": "CsYUptimer keep your link always online Uptime",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "csy",
+    "csyuptimer",
+    "uptimer",
+    "uptime"
+  ],
+  "author": "bucksh0t",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/CsYBot/csyuptimer/issues"
+  },
+  "homepage": "https://github.com/CsYBot/csyuptimer",
+  "dependencies": {
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security"
+  }
+}

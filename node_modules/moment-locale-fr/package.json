@@ -1,0 +1,24 @@
+{
+  "name": "moment-locale-fr",
+  "version": "1.0.0",
+  "description": "Modified french locale for Moment.js",
+  "main": "fr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RasCarlito/moment-locale-fr.git"
+  },
+  "keywords": [
+    "moment",
+    "locale",
+    "fr"
+  ],
+  "author": "Carl OGREN <rascarlito@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RasCarlito/moment-locale-fr/issues"
+  },
+  "homepage": "https://github.com/RasCarlito/moment-locale-fr#readme"
+}
